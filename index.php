@@ -35,7 +35,7 @@ $weekdays_in_previous_month = getWeekdaysInMonth($previousMonth, $previousYear);
 $weekdays_in_next_month = getWeekdaysInMonth($nextMonth, $nextYear);
 
 // Monthly salary
-$monthly_salary = 27000;
+$monthly_salary = 28512;
 
 // Calculate daily wage
 $daily_wage_current_month = $monthly_salary / $weekdays_in_month;
